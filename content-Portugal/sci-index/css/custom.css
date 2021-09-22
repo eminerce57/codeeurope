@@ -1,0 +1,53 @@
+#logo{
+    width: 20rem;
+
+transition: all 300ms ease;  
+}
+
+#logo:hover{
+    width: 23rem;
+
+
+}
+
+#content-1{
+    box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.9) 0px 0px 0px 1px;
+    border-radius: 15px;
+    height: fit-content
+
+}
+
+#content-2{
+    box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.9) 0px 0px 0px 1px;
+    border-radius: 15px;
+   
+
+}
+
+.nav-link-{
+
+color: white;
+transition: all 200ms ease;
+}
+.nav-link-:hover{
+
+    color: #57BDF7;
+
+    }
+
+    .center{
+display: flex;
+justify-content: center;
+align-items: center;
+    }
+
+#footer{
+
+border-radius: 20px;
+
+}
+
+.card{
+
+    margin-bottom: 15px !important; 
+}
